@@ -29,4 +29,4 @@ Fonte: (https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc55
 
 ## SPA (Exemplo: Single Page App)
 
-[Exemplo SPA](https://github.com/afsec/Estudos-Elm/itree/master/SPA)
+[Exemplo SPA](https://github.com/afsec/Estudos-Elm/tree/master/SPA)

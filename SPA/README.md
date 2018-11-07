@@ -13,4 +13,5 @@ Go to [http://localhost:8000](http://localhost:8000) and start clicking on `Main
 ---
 
 Code: (https://github.com/nidstang/elm-navigation-example)
+
 Blog Post: (https://medium.com/@nithstong/spa-simple-with-elm-navigation-630bdfdbef94)
