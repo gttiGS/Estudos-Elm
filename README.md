@@ -1,3 +1,3 @@
 # Estudos Elm
 
-![Aula 1](https://raw.githubusercontent.com/afsec/Estudos-Elm/Aula_1.png)]
+![Aula 1](https://github.com/afsec/Estudos-Elm/raw/master/Aula_1.png)]
