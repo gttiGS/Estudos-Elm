@@ -1,0 +1,18 @@
+digraph Elm_Aula_1 {
+    
+  compound=true;
+  subgraph cluster0 {
+    label="Linguagem Elm"
+    Paradigma -> Arquitetura -> Workflow;
+  }
+  
+  subgraph cluster1 {
+    label="Workflow"
+    shape="box"
+    Model->Update -> View;
+    View -> Model;
+  }
+  
+  Workflow -> Model [lhead=cluster1];
+  
+}
