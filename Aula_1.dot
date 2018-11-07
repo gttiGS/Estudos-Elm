@@ -1,18 +1,23 @@
 digraph Elm_Aula_1 {
+   rankdir = "LR"
+   label = "Aula 1"
+   labelloc="top"
+   labeljust="center"
+   fontsize="30"
     
   compound=true;
   subgraph cluster0 {
     label="Linguagem Elm"
-    Paradigma -> Arquitetura -> Workflow;
+    Paradigma -> Arquitetura -> Workflow
   }
   
   subgraph cluster1 {
     label="Workflow"
     shape="box"
-    Model->Update -> View;
-    View -> Model;
+    Model->Update -> View
+    View -> Model
   }
   
-  Workflow -> Model [lhead=cluster1];
+  Workflow -> Model [lhead=cluster1]
   
 }
