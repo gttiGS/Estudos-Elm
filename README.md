@@ -17,7 +17,7 @@ Fonte: (https://elm-lang.org/docs/advanced-topics)
 ## Arquitetura
 
 
-[![Palestra-Arquitetura](https://img.youtube.com/vi/EDp6UmaA9CM/0.jpg)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
+[![Palestra-Arquitetura](https://img.youtube.com/vi/EDp6UmaA9CM/0.jpg)](https://www.youtube.com/watch?v=EDp6UmaA9CMth)
 
 ## Workflow
 
@@ -29,5 +29,4 @@ Fonte: (https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc55
 
 ## SPA (Exemplo: Single Page App)
 
-
-https://medium.com/@nithstong/spa-simple-with-elm-navigation-630bdfdbef94
+[Exemplo SPA](https://github.com/afsec/Estudos-Elm/itree/master/SPA)
