@@ -17,7 +17,7 @@ Fonte: (https://elm-lang.org/docs/advanced-topics)
 ## Arquitetura
 
 
-[![Palestra-Arquitetura](https://img.youtube.com/vi/vgsckgtVdoQ/0.jpg)](https://www.youtube.com/watch?v=vgsckgtVdoQ)
+[![Palestra-Arquitetura](https://img.youtube.com/vi/EDp6UmaA9CM/0.jpg)](https://www.youtube.com/watch?v=EDp6UmaA9CM)
 
 ## Workflow
 
