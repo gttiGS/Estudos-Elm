@@ -27,7 +27,7 @@ Fonte: (https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc55
 
 
 ## Learn you an Elm
-[![Learn-you-an-Elm](https://github.com/learnyouanelm/learnyouanelm.github.io)]
+[(https://github.com/learnyouanelm/learnyouanelm.github.io)]
 
 
 ## Video Aulas
