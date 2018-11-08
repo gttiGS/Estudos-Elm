@@ -48,7 +48,7 @@ Fonte: (https://medium.com/@l.mugnaini/the-elm-architecture-tea-animation-3efc55
 [![Elm-Tutorial-6](https://img.youtube.com/vi/VYTK5g9eUxs/0.jpg)](https://www.youtube.com/watch?v=VYTK5g9eUxs)
 
 ### Elm Tutorial Part 7 (SPA part 1)
-[![Elm-Tutorial-7](https://img.youtube.com/vi/F9BunUsqDc/0.jpg)](https://www.youtube.com/watch?v=F9BunUsqDc)
+[![Elm-Tutorial-7](https://img.youtube.com/vi/F9BunUsqDcs/0.jpg)](https://www.youtube.com/watch?v=F9BunUsqDcs)
 
 ### Elm Tutorial Part 8 (SPA part 2)
 [![Elm-Tutorial-8](https://img.youtube.com/vi/U3pa-rQLSxA/0.jpg)](https://www.youtube.com/watch?v=U3pa-rQLSxA)
